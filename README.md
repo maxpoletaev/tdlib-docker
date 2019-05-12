@@ -2,6 +2,10 @@
 
 Docker image with precompiled Telegram [tdlib][1] library, based on alpine 3.9.
 
+Available versions:
+
+ - `1.4.0` (`latest`)
+
 To build this image you will need at least 3.5 GB of RAM.
 
 To copy binaries into your own alpine-based image use:
